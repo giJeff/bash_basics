@@ -1,6 +1,6 @@
 #!/bin/sh
 
-echo "Enter your first number"
+echo "Enter your first numbsder"
 read first
 echo "Enter your second number"
 read second
