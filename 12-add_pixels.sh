@@ -9,7 +9,8 @@ read second
 
 sum=$(( first*second ))
 
-echo "The number of pixels is $sum"
+echo "The sum is $sum"
+
 
 
 # exercise: ask the user for the width and height and present total
